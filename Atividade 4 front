@@ -1,0 +1,46 @@
+<!DOCTYPE html>  
+<html lang="pt-BR">  
+<head>  
+    <meta charset="UTF-8">  
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">  
+    <title>Jesus e Seu Legado</title>  
+    <style>  
+        body {  
+            background-color: #f0f0f0;   
+            font-family: Arial, sans-serif;  
+            color: #333;  
+            margin: 20px;  
+        }  
+        h1 {  
+            color: #2c3e50;   
+            text-align: center;  
+        }  
+        h2 {  
+            color: #2980b9;   
+        }  
+        p {  
+            line-height: 1.6;  
+        }  
+        .imagem {  
+            display: block;  
+            margin: 20px auto;  
+            max-width: 100%;  
+        }  
+    </style>  
+</head>  
+<body>  
+
+<h1>Jesus e Seu Legado</h1>  
+
+<h2>A Vida de Jesus Cristo</h2>  
+
+<p>Jesus Cristo, considerado o Filho de Deus por milhões, nasceu em Belém, na Judeia. Sua vida, marcada por milagres e ensinamentos, trouxe uma mensagem de amor e compaixão. Ao longo de seus 33 anos, Ele percorreu diversas regiões, curando enfermos, pregando a paz e desafiando convenções sociais. A famosa frase "Ame o seu próximo como a si mesmo" é apenas um exemplo da profundidade de seus ensinamentos.</p>  
+
+<a href="https://criativodahora.com.br/arquivo/jesus-cristo-14-65f413a824371">  
+    <img src="https://criativodahora.com.br/arquivo/jesus-cristo-14-65f413a824371" alt="Imagem de Jesus" class="imagem">  
+</a>  
+
+<p>Todos nós podemos aprender com o legado de Jesus, que nos convida a viver em harmonia e solidariedade. Seus princípios continuam a inspirar milhões de pessoas ao redor do mundo, promovendo a esperança e a fé em tempos de dificuldade. Assim, a influência de Jesus transcende o tempo, proporcionando um exemplo de vida que ainda ressoa fortemente em nossas comunidades.</p>  
+
+</body>  
+</html>
